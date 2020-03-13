@@ -18,7 +18,7 @@ A listing of online blockchain conferences and events in 2020, with a focus on D
 7th - 8th May: Ethereal Virtual Summit 2020 by ConsenSys : Registration TBC : Ticket Price TBC : 
 
 
-### Remote Hackathons
+## Remote Hackathons
 
 March - May 2020: BSIC DII (ADD INFO)
 Dates DBC: ETH Online
