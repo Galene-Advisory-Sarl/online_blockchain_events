@@ -7,7 +7,7 @@ Provided under the following [licence and terms](https://github.com/g-a-l-e-n-e/
 
 ## 1. Remote Conferences & Webinars
 
-~~### March 2020~~
+### March 2020
 
 ~~13th March : *InterCon* by MetaCartel : Free ticket : Registration Open: Free ticket : https://medium.com/@pethereum/sure-the-future-is-remote-and-virtual-conferences-will-be-a-thing-but-we-arent-doing-this-just-bd0eaef8132d~~
 
@@ -17,7 +17,7 @@ Provided under the following [licence and terms](https://github.com/g-a-l-e-n-e/
 
 ### April 2020
 
-~~3rd - 5th April : *NonCon 2020* by Parallele Polis : Registration Open : Ticket Price/Donation Free: https://noncon.org/ ~~
+~~3rd - 5th April : *NonCon 2020* by Parallele Polis : Registration Open : Ticket Price/Donation Free: https://noncon.org/~~
 
 21st - 23rd April : *EY Global Blockchain Summit* by EY : Registration TBC : Ticket Price/Donation Free: https://pub.ey.com/public/2019/1911/1911-3312324/global-blockchain-summit/home.html
 
