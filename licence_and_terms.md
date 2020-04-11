@@ -24,7 +24,7 @@ Under the following terms:
     
     No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-Under the full terms and conditions of the CC BY-NC-SA 4.0 License can be found in the copy of the licence linked above.
+The full terms and conditions of the CC BY-NC-SA 4.0 License can be found in the copy of the licence linked above.
 
 
 # TERMS OF USE
