@@ -23,6 +23,8 @@ Provided under the following [licence and terms](https://github.com/g-a-l-e-n-e/
 
 28th April : *sub0 Substrate Developer Community Conference* by Parity : Registration Open : Free ticket : https://sub0.parity.io
 
+29th -30th April : *Solidity Summit* by Solidity / Ethereum Foundation : Registration Open but requires application : Free ticket : https://solidity-summit.ethereum.org/
+
 ### May 2020
 
 1st - 3rd May : *DeFi Discussions* by Dystopia Labs : Registration Open : Free ticket : https://defi-discussions.dystopialabs.com/
